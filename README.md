@@ -1,1 +1,85 @@
-# Excel-Sales-Dataset-Project
+# 📊 Retail Sales Analysis – Excel Project
+
+This project is an Excel-based analysis of a retail sales dataset.  
+It demonstrates my skills as an **Entry-Level Data Technician**, focusing on essential data-cleaning, analysis, and visualization techniques using Excel’s core features.
+
+---
+
+## 🎯 Project Overview
+The goal of this project is to practice working with structured datasets and apply key Excel tools, including formulas, pivot tables, conditional formatting, charts, and interactive slicers.
+
+---
+
+## 🧰 Skills & Techniques Used
+
+### 🔢 **Excel Functions**
+I used several fundamental functions for data calculation and summary:
+- `SUM(),SUMIF(), SUMIFS()`
+- `AVERAGE()`
+- `MAX()`
+  
+📸 **Suggested screenshot:**  
+*Take a screenshot of the worksheet showing formulas in the formula bar or a small table demonstrating these functions.*
+
+---
+
+### 🎛️ **Pivot Tables**
+I built multiple pivot tables to summarize sales by:
+- Product Category  
+- Gender  
+- Total Sales  
+
+These pivot tables help extract insights from the dataset efficiently.
+
+📸 **Suggested screenshot:**  
+*Show your main pivot table (e.g., Total Sales by Product Category and Gender).*
+
+---
+
+### 🎨 **Conditional Formatting**
+Used conditional formatting to highlight:
+- High or low values  
+- Key categories  
+- Important metrics in tables  
+
+This makes the dataset more readable and visually clear.
+
+📸 **Suggested screenshot:**  
+*Capture a section of the dataset or the student score sheet where conditional formatting is applied.*
+
+---
+
+### 🧩 **Slicers**
+Interactive slicers were added to allow quick filtering of pivot table results, improving the usability of the report.
+
+📸 **Suggested screenshot:**  
+*Show the slicer next to the pivot table.*
+
+---
+
+### 📈 **Charts**
+I created charts to visualize the summarized data, making it easier to interpret trends and comparisons.
+
+📸 **Suggested screenshot:**  
+*Include a chart connected to the pivot table (e.g., sales per category).*
+
+---
+
+## 📄 Project Files
+- **Excel Workbook:** Contains raw data, calculations, pivot tables, slicers, and charts.  
+  *(Upload your `.xlsx` file to the GitHub repository so users can explore it.)*
+
+---
+
+## 🚀 What This Project Demonstrates
+- Ability to clean, structure, and analyze data in Excel  
+- Use of dynamic functions to create flexible views  
+- Building pivot tables for business insights  
+- Applying conditional formatting for clarity  
+- Creating charts and interactive elements to improve data exploration  
+
+This project reflects my growing skills as a **Data Technician** and my commitment to improving through hands-on practice.
+
+---
+
+If you'd like to see more projects or follow my progress, feel free to check out the rest of my GitHub! 🚀
