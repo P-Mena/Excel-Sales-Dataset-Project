@@ -57,7 +57,7 @@ Interactive slicers were added to allow quick filtering of pivot table results, 
 I created charts to visualize the summarized data, making it easier to interpret trends and comparisons.
 
 📸 **Screenshots:**  
-![Screenshot](images/Pivot_table.png)
+![Screenshot]
 
 
 
