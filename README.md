@@ -18,8 +18,9 @@ I used several fundamental functions for data calculation and summary:
 - `AVERAGE()`
 - `MAX()`
   
-📸 **Suggested screenshot:**  
-*Take a screenshot of the worksheet showing formulas in the formula bar or a small table demonstrating these functions.*
+📸 **Screenshots:**  
+
+
 
 ---
 
@@ -31,10 +32,6 @@ I built multiple pivot tables to summarize sales by:
 
 These pivot tables help extract insights from the dataset efficiently.
 
-📸 **Suggested screenshot:**  
-*Show your main pivot table (e.g., Total Sales by Product Category and Gender).*
-
----
 
 ### 🎨 **Conditional Formatting**
 Used conditional formatting to highlight:
@@ -44,24 +41,17 @@ Used conditional formatting to highlight:
 
 This makes the dataset more readable and visually clear.
 
-📸 **Suggested screenshot:**  
-*Capture a section of the dataset or the student score sheet where conditional formatting is applied.*
-
 ---
 
 ### 🧩 **Slicers**
 Interactive slicers were added to allow quick filtering of pivot table results, improving the usability of the report.
 
-📸 **Suggested screenshot:**  
-*Show the slicer next to the pivot table.*
-
----
 
 ### 📈 **Charts**
 I created charts to visualize the summarized data, making it easier to interpret trends and comparisons.
 
-📸 **Suggested screenshot:**  
-*Include a chart connected to the pivot table (e.g., sales per category).*
+📸 **Screenshot:**  
+
 
 ---
 
