@@ -19,7 +19,7 @@ I used several fundamental functions for data calculation and summary:
 - `MAX()`
   
 📸 **Screenshots:**  
-
+![Screenshot](images/SUMIF().png)
 
 
 ---
