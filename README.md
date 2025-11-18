@@ -57,17 +57,16 @@ Interactive slicers were added to allow quick filtering of pivot table results, 
 I created charts to visualize the summarized data, making it easier to interpret trends and comparisons.
 
 📸 **Screenshots:**  
-![Screenshot]
-
-
-
+![Screenshot](images/Pivot_Table.png)
+![Screenshot](images/Chart&Slicers.png)
+![Screenshot](images/Chart&Slicers2.png)
 
 ---
 
 ## 📄 Project Files
-- **Excel Workbook:** Contains raw data, calculations, pivot tables, slicers, and charts.  
-  *(Upload your `.xlsx` file to the GitHub repository so users can explore it.)*
-
+- **Excel Workbook:** Contains raw data, calculations, pivot tables, slicers, and charts.
+- **Images Folder** Contains all the screeshots using for this README.
+ 
 ---
 
 ## 🚀 What This Project Demonstrates
@@ -77,8 +76,9 @@ I created charts to visualize the summarized data, making it easier to interpret
 - Applying conditional formatting for clarity  
 - Creating charts and interactive elements to improve data exploration  
 
-This project reflects my growing skills as a **Data Technician** and my commitment to improving through hands-on practice.
-
 ---
 
-If you'd like to see more projects or follow my progress, feel free to check out the rest of my GitHub! 🚀
+📌 Note: This Excel project uses Pivot Tables, Slicers, Conditional Formatting, and Charts.  
+For the best viewing experience, please open the file using **Microsoft Excel for Windows (Office 365)**.  
+Some features may not display correctly on **Excel for Mac, Excel Online, Google Sheets, or LibreOffice**.
+
