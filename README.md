@@ -20,6 +20,12 @@ I used several fundamental functions for data calculation and summary:
   
 📸 **Screenshots:**  
 ![Screenshot](images/SUMIF().png)
+-
+![ScreenShots](images/SUMIFS().png)
+-
+![ScreenShots](images/average().png)
+-
+![ScreenShots](images/MAX().png)
 
 
 ---
@@ -50,8 +56,10 @@ Interactive slicers were added to allow quick filtering of pivot table results, 
 ### 📈 **Charts**
 I created charts to visualize the summarized data, making it easier to interpret trends and comparisons.
 
-📸 **Screenshot:**  
-
+📸 **Screenshots:**  
+![Screenshot](images/Pivot Table.png)
+![Screenshot](images/Chart&Slicer.png)
+![Screenshot]((images/Chart&Slicer2.png))
 
 ---
 
